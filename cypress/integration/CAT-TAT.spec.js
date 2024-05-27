@@ -303,9 +303,4 @@ describe('Central de Atendimento ao Cliente TAT', () => {
       .should('be.visible')
   })
 
-  it('testa a página da política de privacidade de forma independente', function(){
-    
-  })
-
-
 });
